@@ -1,0 +1,369 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AE03ABB41E4BA0E20038BAC8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AE03ABB31E4BA0E20038BAC8 /* AppDelegate.m */; };
+		AE03ABB71E4BA0E20038BAC8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE03ABB61E4BA0E20038BAC8 /* main.m */; };
+		AE03ABB91E4BA0E20038BAC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE03ABB81E4BA0E20038BAC8 /* Assets.xcassets */; };
+		AE03ABBC1E4BA0E20038BAC8 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = AE03ABBA1E4BA0E20038BAC8 /* MainMenu.xib */; };
+		AEA7EBC11F61C34C0038BAC8 /* icon-128x128.png in Resources */ = {isa = PBXBuildFile; fileRef = AEA7EBC01F61C34C0038BAC8 /* icon-128x128.png */; };
+		AED554E61F61C58E0038BAC8 /* Meow 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554D81F61C58E0038BAC8 /* Meow 1.wav */; };
+		AED554E71F61C58E0038BAC8 /* Meow 10.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554D91F61C58E0038BAC8 /* Meow 10.wav */; };
+		AED554E81F61C58E0038BAC8 /* Meow 11.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554DA1F61C58E0038BAC8 /* Meow 11.wav */; };
+		AED554E91F61C58E0038BAC8 /* Meow 12.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554DB1F61C58E0038BAC8 /* Meow 12.wav */; };
+		AED554EA1F61C58E0038BAC8 /* Meow 13.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554DC1F61C58E0038BAC8 /* Meow 13.wav */; };
+		AED554EC1F61C58E0038BAC8 /* Meow 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554DE1F61C58E0038BAC8 /* Meow 2.wav */; };
+		AED554ED1F61C58E0038BAC8 /* Meow 3.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554DF1F61C58E0038BAC8 /* Meow 3.wav */; };
+		AED554EE1F61C58E0038BAC8 /* Meow 4.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554E01F61C58E0038BAC8 /* Meow 4.wav */; };
+		AED554EF1F61C58E0038BAC8 /* Meow 5.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554E11F61C58E0038BAC8 /* Meow 5.wav */; };
+		AED554F01F61C58E0038BAC8 /* Meow 6.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554E21F61C58E0038BAC8 /* Meow 6.wav */; };
+		AED554F11F61C58E0038BAC8 /* Meow 7.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554E31F61C58E0038BAC8 /* Meow 7.wav */; };
+		AED554F21F61C58E0038BAC8 /* Meow 8.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554E41F61C58E0038BAC8 /* Meow 8.wav */; };
+		AED554F31F61C58E0038BAC8 /* Meow 9.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554E51F61C58E0038BAC8 /* Meow 9.wav */; };
+		AED554F51F61C6480038BAC8 /* Meow 0.wav in Resources */ = {isa = PBXBuildFile; fileRef = AED554F41F61C6480038BAC8 /* Meow 0.wav */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AE03ABAF1E4BA0E20038BAC8 /* USBMeow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = USBMeow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE03ABB21E4BA0E20038BAC8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AE03ABB31E4BA0E20038BAC8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AE03ABB61E4BA0E20038BAC8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AE03ABB81E4BA0E20038BAC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AE03ABBB1E4BA0E20038BAC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		AE03ABBD1E4BA0E20038BAC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEA7EBC01F61C34C0038BAC8 /* icon-128x128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-128x128.png"; sourceTree = "<group>"; };
+		AED554D81F61C58E0038BAC8 /* Meow 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 1.wav"; sourceTree = "<group>"; };
+		AED554D91F61C58E0038BAC8 /* Meow 10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 10.wav"; sourceTree = "<group>"; };
+		AED554DA1F61C58E0038BAC8 /* Meow 11.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 11.wav"; sourceTree = "<group>"; };
+		AED554DB1F61C58E0038BAC8 /* Meow 12.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 12.wav"; sourceTree = "<group>"; };
+		AED554DC1F61C58E0038BAC8 /* Meow 13.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 13.wav"; sourceTree = "<group>"; };
+		AED554DE1F61C58E0038BAC8 /* Meow 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 2.wav"; sourceTree = "<group>"; };
+		AED554DF1F61C58E0038BAC8 /* Meow 3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 3.wav"; sourceTree = "<group>"; };
+		AED554E01F61C58E0038BAC8 /* Meow 4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 4.wav"; sourceTree = "<group>"; };
+		AED554E11F61C58E0038BAC8 /* Meow 5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 5.wav"; sourceTree = "<group>"; };
+		AED554E21F61C58E0038BAC8 /* Meow 6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 6.wav"; sourceTree = "<group>"; };
+		AED554E31F61C58E0038BAC8 /* Meow 7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 7.wav"; sourceTree = "<group>"; };
+		AED554E41F61C58E0038BAC8 /* Meow 8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 8.wav"; sourceTree = "<group>"; };
+		AED554E51F61C58E0038BAC8 /* Meow 9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 9.wav"; sourceTree = "<group>"; };
+		AED554F41F61C6480038BAC8 /* Meow 0.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow 0.wav"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AE03ABAC1E4BA0E20038BAC8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AE03ABA61E4BA0E20038BAC8 = {
+			isa = PBXGroup;
+			children = (
+				AE03ABB11E4BA0E20038BAC8 /* USBMeow */,
+				AE03ABB01E4BA0E20038BAC8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AE03ABB01E4BA0E20038BAC8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AE03ABAF1E4BA0E20038BAC8 /* USBMeow.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AE03ABB11E4BA0E20038BAC8 /* USBMeow */ = {
+			isa = PBXGroup;
+			children = (
+				AED554D71F61C58E0038BAC8 /* meows */,
+				AE03ABB21E4BA0E20038BAC8 /* AppDelegate.h */,
+				AE03ABB31E4BA0E20038BAC8 /* AppDelegate.m */,
+				AE03ABB81E4BA0E20038BAC8 /* Assets.xcassets */,
+				AEA7EBC01F61C34C0038BAC8 /* icon-128x128.png */,
+				AE03ABBA1E4BA0E20038BAC8 /* MainMenu.xib */,
+				AE03ABBD1E4BA0E20038BAC8 /* Info.plist */,
+				AE03ABB51E4BA0E20038BAC8 /* Supporting Files */,
+			);
+			path = USBMeow;
+			sourceTree = "<group>";
+		};
+		AE03ABB51E4BA0E20038BAC8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AE03ABB61E4BA0E20038BAC8 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AED554D71F61C58E0038BAC8 /* meows */ = {
+			isa = PBXGroup;
+			children = (
+				AED554F41F61C6480038BAC8 /* Meow 0.wav */,
+				AED554D81F61C58E0038BAC8 /* Meow 1.wav */,
+				AED554D91F61C58E0038BAC8 /* Meow 10.wav */,
+				AED554DA1F61C58E0038BAC8 /* Meow 11.wav */,
+				AED554DB1F61C58E0038BAC8 /* Meow 12.wav */,
+				AED554DC1F61C58E0038BAC8 /* Meow 13.wav */,
+				AED554DE1F61C58E0038BAC8 /* Meow 2.wav */,
+				AED554DF1F61C58E0038BAC8 /* Meow 3.wav */,
+				AED554E01F61C58E0038BAC8 /* Meow 4.wav */,
+				AED554E11F61C58E0038BAC8 /* Meow 5.wav */,
+				AED554E21F61C58E0038BAC8 /* Meow 6.wav */,
+				AED554E31F61C58E0038BAC8 /* Meow 7.wav */,
+				AED554E41F61C58E0038BAC8 /* Meow 8.wav */,
+				AED554E51F61C58E0038BAC8 /* Meow 9.wav */,
+			);
+			path = meows;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AE03ABAE1E4BA0E20038BAC8 /* USBMeow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE03ABC01E4BA0E20038BAC8 /* Build configuration list for PBXNativeTarget "USBMeow" */;
+			buildPhases = (
+				AE03ABAB1E4BA0E20038BAC8 /* Sources */,
+				AE03ABAC1E4BA0E20038BAC8 /* Frameworks */,
+				AE03ABAD1E4BA0E20038BAC8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = USBMeow;
+			productName = USBMeow;
+			productReference = AE03ABAF1E4BA0E20038BAC8 /* USBMeow.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AE03ABA71E4BA0E20038BAC8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Yannick Weiss";
+				TargetAttributes = {
+					AE03ABAE1E4BA0E20038BAC8 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = NDJHDNKXD6;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = AE03ABAA1E4BA0E20038BAC8 /* Build configuration list for PBXProject "USBMeow" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AE03ABA61E4BA0E20038BAC8;
+			productRefGroup = AE03ABB01E4BA0E20038BAC8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AE03ABAE1E4BA0E20038BAC8 /* USBMeow */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AE03ABAD1E4BA0E20038BAC8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AED554F31F61C58E0038BAC8 /* Meow 9.wav in Resources */,
+				AE03ABB91E4BA0E20038BAC8 /* Assets.xcassets in Resources */,
+				AED554E71F61C58E0038BAC8 /* Meow 10.wav in Resources */,
+				AE03ABBC1E4BA0E20038BAC8 /* MainMenu.xib in Resources */,
+				AED554EA1F61C58E0038BAC8 /* Meow 13.wav in Resources */,
+				AED554EC1F61C58E0038BAC8 /* Meow 2.wav in Resources */,
+				AED554EF1F61C58E0038BAC8 /* Meow 5.wav in Resources */,
+				AED554F21F61C58E0038BAC8 /* Meow 8.wav in Resources */,
+				AEA7EBC11F61C34C0038BAC8 /* icon-128x128.png in Resources */,
+				AED554EE1F61C58E0038BAC8 /* Meow 4.wav in Resources */,
+				AED554ED1F61C58E0038BAC8 /* Meow 3.wav in Resources */,
+				AED554F51F61C6480038BAC8 /* Meow 0.wav in Resources */,
+				AED554F11F61C58E0038BAC8 /* Meow 7.wav in Resources */,
+				AED554E61F61C58E0038BAC8 /* Meow 1.wav in Resources */,
+				AED554F01F61C58E0038BAC8 /* Meow 6.wav in Resources */,
+				AED554E81F61C58E0038BAC8 /* Meow 11.wav in Resources */,
+				AED554E91F61C58E0038BAC8 /* Meow 12.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AE03ABAB1E4BA0E20038BAC8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE03ABB71E4BA0E20038BAC8 /* main.m in Sources */,
+				AE03ABB41E4BA0E20038BAC8 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AE03ABBA1E4BA0E20038BAC8 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AE03ABBB1E4BA0E20038BAC8 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AE03ABBE1E4BA0E20038BAC8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		AE03ABBF1E4BA0E20038BAC8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		AE03ABC11E4BA0E20038BAC8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = NDJHDNKXD6;
+				INFOPLIST_FILE = USBMeow/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yannickweiss.USBMeow;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AE03ABC21E4BA0E20038BAC8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = NDJHDNKXD6;
+				INFOPLIST_FILE = USBMeow/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yannickweiss.USBMeow;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AE03ABAA1E4BA0E20038BAC8 /* Build configuration list for PBXProject "USBMeow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE03ABBE1E4BA0E20038BAC8 /* Debug */,
+				AE03ABBF1E4BA0E20038BAC8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AE03ABC01E4BA0E20038BAC8 /* Build configuration list for PBXNativeTarget "USBMeow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE03ABC11E4BA0E20038BAC8 /* Debug */,
+				AE03ABC21E4BA0E20038BAC8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AE03ABA71E4BA0E20038BAC8 /* Project object */;
+}
